@@ -4,7 +4,7 @@ import java.util.List;
 public class DataTypes {
     // TODO TASK 1: fix this code so that it passes the test in DataTypesTest.java
     public static long sum(List<Integer> numbers) {
-
+        Jonathan Calver
         long s = 0;
         // below is a "foreach" loop which iterates through numbers
         for (int x : numbers) {
@@ -15,6 +15,8 @@ public class DataTypes {
 
     public static void main(String[] args) {
 
-        System.out.println(sum(Arrays.asList(1, 2, 3, 4, 10000)));
+        Integer a = 1;
+        System.out.println(a);
+
     }
 }
